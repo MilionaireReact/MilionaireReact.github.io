@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff19421b.css",
+    "main.js": "/static/js/main.5a61a57e.js",
+    "static/media/PlayersAnnouncerImage.png": "/static/media/PlayersAnnouncerImage.343d119c01821181b418.png",
+    "static/media/background_image.jpg": "/static/media/background_image.c137ccd722d64133b4df.jpg",
+    "static/media/StopWatch.png": "/static/media/StopWatch.fa20994e6ab37308df3f.png",
+    "static/media/icon.png": "/static/media/icon.198bf335fead184f2f6c.png",
+    "index.html": "/index.html",
+    "main.ff19421b.css.map": "/static/css/main.ff19421b.css.map",
+    "main.5a61a57e.js.map": "/static/js/main.5a61a57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff19421b.css",
+    "static/js/main.5a61a57e.js"
+  ]
+}
